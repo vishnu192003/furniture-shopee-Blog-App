@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Modern Sofa",
+    "price": "$999",
+    "image": "vishnu1"
+  },
+  {
+    "id": 2,
+    "name": "Wooden Table",
+    "price": "$499",
+    "image": "vishnu2"
+  },
+  {
+    "id": 3,
+    "name": "Comfortable Chair",
+    "price": "$199",
+    "image": "vishnu3"
+  },
+  {
+    "id": 4,
+    "name": "King Size Bed",
+    "price": "$799",
+    "image": "vishnu4"
+  }
+]
